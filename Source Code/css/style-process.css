@@ -1,0 +1,15 @@
+p {
+  background-color: #161717;
+  font-family: "Poppins", sans-serif;
+  padding: 20px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 100%;
+  border: 10px;
+  border-radius: 20px;
+  border-color: white;
+  text-align: center;
+  align-items: center;
+}
